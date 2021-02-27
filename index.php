@@ -6,7 +6,9 @@
     <title>omNom.link</title>
 </head>
 <body>
-    <?php echo 'NEW site';?>
+    <h1><center> <?php echo 'Извините, сайт обновляется';?> </center></h1>
+    <h2><center> <?php echo 'Sorry, site update';?> </center></h2>
+    
     
 </body>
 </html>
