@@ -18,7 +18,7 @@
                         $linkBlock .=  "
                             
                             <tr>   
-                                <td><a href='/s/$link->mylink'>https://omnom.link/s/$link->mylink</a></td>
+                                <td><a href='/s/$link->mylink' target='_blank'>https://omnom.link/s/$link->mylink</a></td>
                                 <td><a href='#' class='del btn btn-sm btn-outline-primary ' >Копировать</a></td>
                                 <td><a href='/?action=delete&id={$link->id}' class='del btn btn-sm btn-primary ' onclick='return confirm(\"Вы дейстиветельно хотите удалить - $link->mylink\")'>Удалить</a></td>
                             </tr>

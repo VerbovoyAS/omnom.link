@@ -44,13 +44,12 @@
             <div class="row">
 
                 <div class="col-lg-6  order-2  order-lg-1">
-                    <!-- <h1 class="text-primary intro__title" style="">omNom.link</h1> -->
-                    <!-- <img class="wow " data-wow-duration=".5s" src="/frontend/assets/i/logo-long.png" alt=""> -->
+                    
                     <img src="/frontend/assets/i/logo-long.png" height="" width="100%" alt="omNom.link">
                     <h2 class="intro__subtitle">Бесплатный сервис по сокращению ссылок</h2>
                     <div class="row">
                         <div class="col-md-6">
-                            <a class="btn  btn-primary  btn-lg  btn-block" href="#" data-toggle="modal" data-target="#whitelist_modal">Регистрация</a>
+                            <a class="btn  btn-primary  btn-lg  btn-block" href="/user/reg" data-toggle="modal" data-target="#whitelist_modal">Регистрация</a>
                         </div>
                         <div class="col-md-6">
                             <a class="btn  btn-success  btn-lg  btn-block" href="/user/auth">Авторизация</a>

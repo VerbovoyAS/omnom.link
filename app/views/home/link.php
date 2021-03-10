@@ -81,10 +81,10 @@
                 </div>
 
                 <div class="col-lg-6  order-2  order-lg-2 d-flex align-items-center">
-                    <div class="intro__info w-100">
+                    <div id="block" class="intro__info w-100">
                         <h3 class="block__title">Недавние ссылки</h3>
                         <?php if(isset($data[0]) != "" ):?>
-                            <div id="block" class="table-responsive">
+                            <div  class="table-responsive">
                                 <table class="table table-striped">
                                 <thead>
                                     <!-- <tr>
@@ -99,7 +99,7 @@
                                 </tbody>
                                 </table>
                             </div>
-                            <p>Просмотреть все ссылки вы можете в <a href="/user">Личном кабинете</a></p>
+                            <p>Просмотреть все ссылки вы можете в <a href="/user/<?=$_COOKIE['login']?>">Личном кабинете</a></p>
                         <?php else:?>
                             <h3 class="text-center">Создайте свою первую ссылку</h3>
                         <?php endif;?>
