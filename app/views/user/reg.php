@@ -90,7 +90,7 @@
                 if(data == 'Готово') {
                     $('#reg_user').text('Все готово');
                     $('#errorBlock').hide();
-                    setTimeout(function () { document.location.href = '/user/'; }, 2000);
+                    setTimeout(function () { document.location.href = '/'; }, 2000);
                 }
                 else {
                     $('#errorBlock').show();
