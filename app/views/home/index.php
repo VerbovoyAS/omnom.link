@@ -49,7 +49,7 @@
                     <h2 class="intro__subtitle">Бесплатный сервис по сокращению ссылок</h2>
                     <div class="row">
                         <div class="col-md-6">
-                            <a class="btn  btn-primary  btn-lg  btn-block" href="/user/reg" data-toggle="modal" data-target="#whitelist_modal">Регистрация</a>
+                            <a class="btn  btn-primary  btn-lg  btn-block" href="/user/reg" >Регистрация</a>
                         </div>
                         <div class="col-md-6">
                             <a class="btn  btn-success  btn-lg  btn-block" href="/user/auth">Авторизация</a>
