@@ -9,14 +9,14 @@
 <link rel="stylesheet" href="/frontend/assets/css/themes/theme_blue.min.css?v=1.0.0">
 
 <!-- Useful meta tags -->
-<!-- <meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="index, follow, noodp">
 <meta name="googlebot" content="index, follow">
 <meta name="google" content="notranslate">
-<meta name="format-detection" content="telephone=no"> -->
+<meta name="format-detection" content="telephone=no">
 
 <!-- Favicons for all devices -->
 <link rel="apple-touch-icon" sizes="180x180" href="/frontend/assets/i/favicons/apple-touch-icon.png">
