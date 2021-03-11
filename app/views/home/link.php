@@ -54,8 +54,8 @@
         <div class="container">
             <div class="row">
                 <div class="col d-flex  justify-content-center">
-                    <a href=""><img src="/frontend/assets/i/logo-long.png" class="d-block d-md-none" width="" height="70" alt="omNom.link"></a>
-                    <a href=""><img src="/frontend/assets/i/logo-long.png" class="d-none d-md-block" width="" height="100" alt="omNom.link"></a>
+                    <a href="/"><img src="/frontend/assets/i/logo-long.png" class="d-block d-md-none" width="" height="70" alt="omNom.link"></a>
+                    <a href="/"><img src="/frontend/assets/i/logo-long.png" class="d-none d-md-block" width="" height="100" alt="omNom.link"></a>
                 </div>
             </div>
             

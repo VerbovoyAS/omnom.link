@@ -8,7 +8,7 @@
                 <button class="burger" type="button" id="nav_toggle">
                     <i class="fas fa-bars"></i>
                 </button>
-                <a href=""><img class="navigation__logo" src="/frontend/assets/i/logo-min.png" height="30" alt=""></a>
+                <a href="/"><img class="navigation__logo" src="/frontend/assets/i/logo-min.png" height="30" alt=""></a>
                 <nav class="navigation__menu" id="nav">
                     <a href="#" data-scroll="#intro">Главная</a>
                     <a href="#" data-scroll="#about">О Нас</a>
