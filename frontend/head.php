@@ -11,8 +11,8 @@
 <!-- Useful meta tags -->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<meta name="description" content="Бесплатный сервис по сокращению ссылок">
+<meta name="keywords" content="urls, shortener, короткие ссылки, укорачиватель ссылок, сократить ссылку, короткий урл, omnom, omnom.link, link cut">
 <meta name="robots" content="index, follow, noodp">
 <meta name="googlebot" content="index, follow">
 <meta name="google" content="notranslate">
