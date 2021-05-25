@@ -88,7 +88,7 @@
     </div>
     <!-- /.intro -->
     
-    <?php require_once '/home-content.php';?>    
+    <?php require_once 'home-content.php';?>    
 
     <!-- Ajax Регистрация -->
     <script> 
