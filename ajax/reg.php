@@ -17,7 +17,7 @@
     
     
 
-    $hash = "fvjdfjnvfinvfv";
+    require_once '../app/lib/hash.php';
     $pass = md5($pass1 . $hash);
     
     require_once '../app/lib/DB.php';

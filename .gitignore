@@ -1,3 +1,4 @@
 test_db_pdo.php
 test_db.php
 app/lib/mysql.php
+app/lib/hash.php

@@ -71,7 +71,7 @@
                 <div class="col-lg-5  ml-auto  order-1  order-lg-2">
                     <div class="intro__info">
                     <h3 class="block__title">Сократить ссылку</h3>
-                    <p>Сократить ссылку БЕЗ резистрации</p>
+                    <p>Сократить ссылку БЕЗ регистрации</p>
                         <form action="contact.php" method="post" id="contact_form">
                             <div class="form-group">
                                 <label for="help_name">Ссылка</label>
